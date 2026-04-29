@@ -1,0 +1,4 @@
+"dependencies": {
+  "fsevents": ">=1.2.11",
+  "nodemon": "^1.19.1"
+}
